@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32610" started-at="2018-03-03T05:15:15Z" finished-at="2018-03-03T05:15:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32610" started-at="2018-03-03T05:15:15Z" finished-at="2018-03-03T05:15:48Z">
+      <class name="milon.YahooTest">
+        <test-method status="PASS" signature="ConfigYahoo()[pri:0, instance:milon.YahooTest@57fffcd7]" name="ConfigYahoo" duration-ms="32598" started-at="2018-03-03T10:45:15Z" finished-at="2018-03-03T10:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigYahoo -->
+      </class> <!-- milon.YahooTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
