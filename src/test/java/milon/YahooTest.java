@@ -17,7 +17,7 @@ public class YahooTest {
 	@Test
 	public void ConfigYahoo() throws Throwable
 	{
-		
+		System.out.println("enter into Testscript");
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\TYSS\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
