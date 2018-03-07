@@ -23,7 +23,7 @@ public class DemoTest {
 		@Test
 		public void configDemoTest()
 		{
-			System.out.println("test started now");
+			System.out.println("test started");
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\TYSS\\Downloads\\chromedriver_win32\\chromedriver.exe");
 			WebDriver driver=new ChromeDriver();
 			
